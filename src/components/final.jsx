@@ -11,8 +11,8 @@ export default function Final() {
     <>
       <div className="bg-gray-100 flex flex-col justify-center items-center min-h-screen">
         <div className="flex flex-row gap-20">
-          <div className="text-3xl font-bold">{homeTeam}</div>
-          <div className="text-3xl font-bold">{awayTeam}</div>
+          <div className="text-2xl font-bold">{homeTeam}</div>
+          <div className="text-2xl font-bold">{awayTeam}</div>
         </div>
         <div className="bg-white p-6 rounded-lg shadow-lg w-full max-w-sm flex justify-around">
           <div>
