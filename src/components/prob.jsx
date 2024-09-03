@@ -28,7 +28,7 @@ export default function Odds() {
 
   return (
     <div className="bg-gray-100 flex flex-col justify-center items-center min-h-screen">
-      <div className="flex flex-row gap-52">
+      <div className="flex flex-row gap-20">
         <div className="text-3xl font-bold">{homeTeam}</div>
         <div className="text-3xl font-bold">{awayTeam}</div>
       </div>
